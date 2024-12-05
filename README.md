@@ -13,13 +13,10 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/flutter/flutter/badge)](https://deps.dev/project/github/flutter%2Fflutter)
 [![SLSA 1](https://slsa.dev/images/gh-badge-level1.svg)](https://slsa.dev)
 
-# Tutorial Clean Architecture
+# Clean Architecture
 
-A Flutter project demonstrating the implementation of Clean Architecture principles.
-
-## Getting Started
-
-This project serves as an example project for building scalable and maintainable Flutter applications using Clean Architecture by Kuldii Project.
+A Flutter project demonstrating the implementation of Clean Architecture principles using Bloc State management with Rest API.
+This project serves as an example project for building scalable and maintainable Flutter applications using Clean Architecture.
 
 ## Table of Contents
 
